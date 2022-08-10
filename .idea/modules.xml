@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/12clk_Pytest_tutorial.iml" filepath="$PROJECT_DIR$/.idea/12clk_Pytest_tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/12clk_Pytest_tutotrial.iml" filepath="$PROJECT_DIR$/.idea/12clk_Pytest_tutotrial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Tutorial_Basics/.idea/Python_Tutorial_Basics.iml" filepath="$PROJECT_DIR$/../Python_Tutorial_Basics/.idea/Python_Tutorial_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium_tutorial/.idea/Selenium_tutorial.iml" filepath="$PROJECT_DIR$/../Selenium_tutorial/.idea/Selenium_tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Web_Driver_Manager_DemoProject/.idea/Web_Driver_Manager_DemoProject.iml" filepath="$PROJECT_DIR$/../Web_Driver_Manager_DemoProject/.idea/Web_Driver_Manager_DemoProject.iml" />
+    </modules>
+  </component>
+</project>
